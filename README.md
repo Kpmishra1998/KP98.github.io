@@ -19,6 +19,7 @@ Personal academic website of Kaibalyapati Mishra, served with GitHub Pages.
 3. Go to **Settings → Pages**, set Source to **Deploy from a branch**, branch `main`, folder `/ (root)`, and save.
 4. The site goes live at `https://kpmishra1998.github.io` within a minute or two.
 
+
 ## Updating
 
 Edit the relevant `.html` file on GitHub (pencil icon), commit, and the site refreshes automatically. To add a paper, copy an existing `<li>…</li>` line and change the text.
